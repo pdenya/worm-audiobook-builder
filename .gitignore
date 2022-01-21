@@ -1,0 +1,6 @@
+processed_mp3s/*.mp3
+original_audios/*.mp3
+*.m4b
+rerecorded_chapters
+.DS_Store
+cover.jpg
